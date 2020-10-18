@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">App Layout</string>
+    <string name="app_main">Contoh Profil layout</string>
+    <string name="app_layout">Relative + Linear Layout</string>
+    <string name="app_constraint">Constraint Layout</string>
+    <string name="lorem_ipsum">Nama saya Muhammmad Inzanul Huda, Jurusan Tehnik Informatika angkatan 2018.</string>
+    <string name="lorem_ipsum_mini">muhammadhuda019</string>
+    <string name="lorem_fb">Muhammad Huda</string>
+    <string name="lorem_wa">081335703482</string>
+</resources>
